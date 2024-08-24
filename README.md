@@ -1,6 +1,6 @@
 ## About Me
 
-[https://avatars.githubusercontent.com/u/134008768?v=4](https://avatars.githubusercontent.com/u/134008768?v=4)
+[user_profile](github_profile.png)
 
 Ron Vallejo
 IT Service Desk Manager @ BYU-Idaho | Adjunct Professor | AI & Automation Developer | Tech Innovator
