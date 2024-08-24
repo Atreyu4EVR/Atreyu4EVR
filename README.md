@@ -1,15 +1,17 @@
-👨‍💻 **Ron Vallejo**  
-🚀 IT Service Desk Manager @ BYU-Idaho | Adjunct Professor | AI & Automation Developer | Tech Innovator
+## About Me
+
+[https://avatars.githubusercontent.com/u/134008768?v=4](https://avatars.githubusercontent.com/u/134008768?v=4)
+
+Ron Vallejo
+IT Service Desk Manager @ BYU-Idaho | Adjunct Professor | AI & Automation Developer | Tech Innovator
 
 📍 Rexburg, Idaho  
 👨‍👩‍👧‍👦 Father of Five | ADHD Superpower | Horror Movie Buff 🎥  
 🐶 Pitbull Dad | Call of Duty Warrior 🎮 | Morning GFuel Addict ☕️
 
----
-
 🌟 Turning challenges into opportunities, I lead a team of 35+ bright college minds, balancing their academic journey with hands-on tech experience. I spearhead AI and automation strategies to elevate IT service management across CES institutions.
 
-💡 I'm the brains behind Atreyu.AI, where AI meets innovation. When I’m not coding or teaching, you'll find me exploring the latest in AI, keeping my MS Teams presence in check, or diving into the paranormal world of horror movies.
+🚀 I'm the brains behind [Atreyu.AI](https://atreyu.streamlit.app/), where AI meets innovation. When I’m not coding or teaching, you'll find me exploring the latest in AI, changing diapers, or courting my beloved wife, you can find me on Discord.
 
 🛠️ Passionate about harnessing AI to improve workflows, I’m always up for a good challenge—whether it’s debugging a tough issue or getting that perfect shot in Call of Duty.
 
