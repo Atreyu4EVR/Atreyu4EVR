@@ -1,7 +1,5 @@
 ## About Me
 
-[user_profile](github_profile.png)
-
 Ron Vallejo
 IT Service Desk Manager @ BYU-Idaho | Adjunct Professor | AI & Automation Developer | Tech Innovator
 
