@@ -5,6 +5,7 @@ IT Service Desk Manager @ BYU-Idaho | Adjunct Professor | AI & Automation Develo
 📍 Rexburg, Idaho  
 👨‍👩‍👧‍👦 Father of Five | ADHD Superpower | Horror Movie Buff 🎥  
 🐶 Pitbull Dad | Call of Duty Warrior 🎮 | Morning GFuel Addict ☕️
+Member of the Church of Jesus Christ of Latter-day Saints
 
 ## Experience
 ### IT SERVICE DESK MANAGER  
