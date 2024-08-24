@@ -1,11 +1,40 @@
-## About Me
+# About Me
 
-Ron Vallejo
 IT Service Desk Manager @ BYU-Idaho | Adjunct Professor | AI & Automation Developer | Tech Innovator
 
 📍 Rexburg, Idaho  
 👨‍👩‍👧‍👦 Father of Five | ADHD Superpower | Horror Movie Buff 🎥  
 🐶 Pitbull Dad | Call of Duty Warrior 🎮 | Morning GFuel Addict ☕️
+
+## Experience
+### IT SERVICE DESK MANAGER  
+**BYU-I Department of Information Technology**  
+- Pioneered the implementation of AI Chatbot technologies (generative AI - crowd & open-source), significantly enhancing customer support and operational efficiency.
+- Developed the IT Help Center ([ithelp.byui.edu](https://ithelp.byui.edu)), streamlining IT service management and improving user access to support resources.
+- Integrated the Knowledge-Centered Service (KCS) methodology into incident and service management using TeamDynamix (ITSM), resulting in an average of 80% zero-day resolution.
+- Engineered automation solutions to augment departmental effectiveness, streamline IT change management, and reduce manual workload.
+- Appointed by the Church Educational System (CES) leadership to serve as the consultant and subject matter expert for strategy and deployment of TeamDynamix (ITSM) for all CES institutions.
+
+### ADJUNCT FACULTY  
+**BYU-I College of Computer Science**  
+- Redesigned the Introduction to Programming (CSE 110) course to incorporate a project-based learning approach, allowing students to build and develop a fully functional Python application over the semester.
+- Enhanced course structure to cater to non-Computer Science majors by demonstrating the practical applications of programming in various fields, thus inspiring a broader appreciation and passion for technology.
+- Integrated generative AI tools to assist with problem-solving, equipping students with cutting-edge skills relevant to the rapidly evolving tech landscape.
+- Inspired students to find relevance and application of technology to bring more value to their personal and professional lives.
+
+---
+
+🎓 **Education:**  
+
+**BUSINESS MANAGEMENT B.S.**  
+College of Business and Communication  
+Brigham Young University - Idaho  
+
+**IT MANAGEMENT M.S.**  
+College of Information Technology  
+Western Governors University
+
+---
 
 🌟 Turning challenges into opportunities, I lead a team of 35+ bright college minds, balancing their academic journey with hands-on tech experience. I spearhead AI and automation strategies to elevate IT service management across CES institutions.
 
