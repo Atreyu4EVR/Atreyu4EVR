@@ -1,16 +1,12 @@
 # About Me
 
-Hi, I’m Ron Vallejo, an IT professional and educator based in Rexburg, Idaho. I currently serve as the IT Service Desk Manager at Brigham Young University-Idaho, where I lead a talented team of 35-40 college students who balance their academic pursuits with delivering top-notch technical support to our students across the globe. My role focuses on optimizing our IT operations through good ol' fashioned customer service, coupled with AI, automation, and innovative service management solutions.
+Hi, I’m Ron Vallejo, an IT professional and educator based in Rexburg, Idaho. I currently serve as the IT Service Desk Manager at [Brigham Young University-Idaho](https://www.byui.edu/), where I lead a talented team of college students who balance their academic pursuits with delivering top-notch technical support to our students across the globe. My role focuses on optimizing our IT operations through good ol' fashioned customer service, coupled with AI, automation, and innovative service management solutions.
 
-In addition to my management role, I’m an Adjunct Professor of Computer Science at BYU-Idaho, where I teach an Intro to Programming (Python) course. I’m passionate about guiding students through their first steps in coding and problem-solving, showing them how programming can be applied to real-world scenarios and professional success.
+In addition to my management role, I’m an Adjunct Professor in the Department of Computer Science at Brigham Young University-Idaho, where I teach the Introduction to Programming course. I’m passionate about guiding students through their first steps in coding and problem-solving, showing them how programming can be applied to real-world scenarios and professional success.
 
-With over a decade of experience in both business and technology, I’m passionate about leveraging new tools and strategies to enhance operational efficiency. My educational background includes a Bachelor's in Business Management and Social Media, and I’m currently finalizing my Master’s in IT Management with a focus on AI and automation.
+With over a decade of experience in both business and technology, I’m passionate about leveraging new tools and strategies to enhance operational efficiency. My educational background includes a Bachelor's in Business Management and Social Media, and I’m currently finalizing my Master’s in IT Management with a focus on AI and automation. I’m a big believer in innovation and growth, whether it's in my professional career, personal life, or teaching. I’m here to share my journey, my insights, and hopefully inspire others along the way. 🚀 Check out an example of an AI application I developed [Atreyu.AI](https://atreyu.streamlit.app/).
 
-I’m also a member of the Church of Jesus Christ of Latter-day Saints, and my faith in Jesus Christ is central to everything I do. If anyone would like to know more about my faith, the Book of Mormon, or simply wants to discuss beliefs, I invite you to message me!
-
-Beyond work, I’m a husband and father of five, navigating life with ADHD while striving to turn its challenges into strengths. I’m also an avid tech enthusiast, keeping up with the latest trends in AI and automation, and I enjoy playing Call of Duty in my downtime. Horror movies, especially paranormal ones like *The Conjuring* and *Insidious*, are a go-to escape for me when I need to unwind.
-
-I’m a big believer in innovation and growth, whether it's in my professional career, personal life, or teaching. I’m here to share my journey, my insights, and hopefully inspire others along the way. If you’re passionate about tech, AI, automation, or just looking for tips on balancing a busy life, feel free to connect with me!
+I’m also a member of the [Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), and my faith in Jesus Christ is central to everything I do. If anyone would like to know more about my faith, the Book of Mormon, or simply wants to discuss beliefs, please reach out! Just as importantly, I’m a husband and father of five, navigating life with ADHD while striving to turn its challenges into strengths.
 
 ## Experience
 
@@ -29,8 +25,6 @@ I’m a big believer in innovation and growth, whether it's in my professional c
 - Integrate generative AI tools to assist with problem-solving, equipping students with cutting-edge skills relevant to the rapidly evolving tech landscape.
 - Inspire students to find relevance and application of technology to bring more value to their personal and professional lives.
 
----
-
 ## Education
 
 **BUSINESS MANAGEMENT B.S.** *graduated*
@@ -45,19 +39,7 @@ Western Governors University
 
 ---
 
-🌟 Turning challenges into opportunities, I lead a team of 35+ bright college minds, balancing their academic journey with hands-on tech experience. I spearhead AI and automation strategies to elevate IT service management across CES institutions.
-
-🚀 I'm the brains behind [Atreyu.AI](https://atreyu.streamlit.app/), where AI meets innovation. When I’m not coding or teaching, you'll find me exploring the latest in AI, changing diapers, or courting my beloved wife.
-
-🛠️ Passionate about harnessing AI to improve workflows, I’m always up for a good challenge—whether it’s debugging a tough issue or getting that perfect shot in Call of Duty.
-
----
-
-Check out my latest AI development projects at [Atreyu.AI](https://atreyu.streamlit.app/)
-
-**Let's connect & innovate!**
-
-### Find me on social media
+### Connect with me on social media
 Facebook: [ronweasleyjr](https://www.facebook.com/ronweasleyjr/)  
 X: [Atreyu4EVR](https://x.com/Atreyu4EVR)
 
