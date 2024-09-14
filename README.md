@@ -1,3 +1,5 @@
+[Experience](https://github.com/Atreyu4EVR/Atreyu4EVR/blob/main/README.md#experience) | [Education](https://github.com/Atreyu4EVR#education) | [Connect](https://github.com/Atreyu4EVR#connect-with-me)
+
 # About Me
 
 Hi, I’m Ron Vallejo, an IT professional and educator based in Rexburg, Idaho. I currently serve as the IT Service Desk Manager at [Brigham Young University-Idaho](https://www.byui.edu/), where I lead a talented team of college students who balance their academic pursuits with delivering top-notch technical support to our students across the globe. My role focuses on optimizing our IT operations through good ol' fashioned customer service, coupled with AI, automation, and innovative service management solutions.
