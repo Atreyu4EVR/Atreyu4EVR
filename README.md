@@ -42,9 +42,9 @@ Western Governors University
 ---
 
 ### Connect with me!
-[Facebook](https://www.facebook.com/ronweasleyjr/)
-[x.com](https://x.com/Atreyu4EVR)
-[LinkedIn](https://www.linkedin.com/in/ronvallejo/)
-[Hugging Face](https://huggingface.co/Atreyu4EVR)
+[Facebook](https://www.facebook.com/ronweasleyjr/) 
+[x.com](https://x.com/Atreyu4EVR) 
+[LinkedIn](https://www.linkedin.com/in/ronvallejo/) 
+[Hugging Face](https://huggingface.co/Atreyu4EVR) 
 
 <!--- ronvallejo/ronvallejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
