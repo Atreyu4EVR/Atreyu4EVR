@@ -31,14 +31,14 @@ I’m a big believer in innovation and growth, whether it's in my professional c
 
 ---
 
-## Education 
+## Education
 
-**BUSINESS MANAGEMENT B.S.**  *Graduated*
-College of Business and Communication  
-Brigham Young University - Idaho  
+**BUSINESS MANAGEMENT B.S.** *Graduated*
+College of Business and Communication
+Brigham Young University - Idaho
 
-**IT MANAGEMENT M.S.**  *Studying*
-College of Information Technology  
+**IT MANAGEMENT M.S.** *Studying*
+College of Information Technology
 Western Governors University
 
 ---
