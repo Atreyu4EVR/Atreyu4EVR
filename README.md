@@ -1,4 +1,4 @@
-[Experience](https://github.com/Atreyu4EVR/Atreyu4EVR/blob/main/README.md#experience) | [Education](https://github.com/Atreyu4EVR#education) | [Connect](https://github.com/Atreyu4EVR#connect-with-me)
+[Experience](https://github.com/Atreyu4EVR/Atreyu4EVR/blob/main/README.md#experience) | [Education](https://github.com/Atreyu4EVR#education) | [AI Development](https://github.com/Atreyu4EVR#ai-development) | [Connect](https://github.com/Atreyu4EVR#connect-with-me) 
 
 # About Me
 
@@ -6,7 +6,7 @@ Hi, I’m Ron Vallejo, an IT professional and educator based in Rexburg, Idaho. 
 
 In addition to my management role, I’m an Adjunct Professor in the Department of Computer Science at Brigham Young University-Idaho, where I teach the Introduction to Programming course. I’m passionate about guiding students through their first steps in coding and problem-solving, showing them how programming can be applied to real-world scenarios and professional success.
 
-With over a decade of experience in both business and technology, I’m passionate about leveraging new tools and strategies to enhance operational efficiency. My educational background includes a Bachelor's in Business Management and Social Media, and I’m currently finalizing my Master’s in IT Management with a focus on AI and automation. I’m a big believer in innovation and growth, whether it's in my professional career, personal life, or teaching. I’m here to share my journey, my insights, and hopefully inspire others along the way. 🚀 Check out [Python-Tutor](https://byui-python-tutor.streamlit.app/), an AI application I developed my students in Intro to Programming course at BYU-Idaho. 
+With over a decade of experience in both business and technology, I’m passionate about leveraging new tools and strategies to enhance operational efficiency. My educational background includes a Bachelor's in Business Management and Social Media, and I’m currently finalizing my Master’s in IT Management with a focus on AI and automation. I’m a big believer in innovation and growth, whether it's in my professional career, personal life, or teaching. I’m here to share my journey, my insights, and hopefully inspire others along the way. 
 
 I’m also a member of the [Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), and my faith in Jesus Christ is central to everything I do. If anyone would like to know more about my faith, the Book of Mormon, or simply wants to discuss beliefs, please reach out! Just as importantly, I’m a husband and father of five, navigating life with ADHD while striving to turn its challenges into strengths.
 
@@ -41,6 +41,10 @@ College of Information Technology
 Western Governors University
 
 ---
+
+## AI Development
+
+🚀 Check out [Python-Tutor](https://byui-python-tutor.streamlit.app/), an AI application I developed for my students enrolled in my Intro to Programming course at BYU-Idaho.
 
 ### Connect with me!
 [Facebook](https://www.facebook.com/ronweasleyjr/) 
