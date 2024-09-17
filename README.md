@@ -6,7 +6,7 @@ Hi, I’m Ron Vallejo, an IT professional and educator based in Rexburg, Idaho. 
 
 In addition to my management role, I’m an Adjunct Professor in the Department of Computer Science at Brigham Young University-Idaho, where I teach the Introduction to Programming course. I’m passionate about guiding students through their first steps in coding and problem-solving, showing them how programming can be applied to real-world scenarios and professional success.
 
-With over a decade of experience in both business and technology, I’m passionate about leveraging new tools and strategies to enhance operational efficiency. My educational background includes a Bachelor's in Business Management and Social Media, and I’m currently finalizing my Master’s in IT Management with a focus on AI and automation. I’m a big believer in innovation and growth, whether it's in my professional career, personal life, or teaching. I’m here to share my journey, my insights, and hopefully inspire others along the way. 🚀 Check out an example of an AI application I developed [Atreyu.AI](https://atreyu.streamlit.app/).
+With over a decade of experience in both business and technology, I’m passionate about leveraging new tools and strategies to enhance operational efficiency. My educational background includes a Bachelor's in Business Management and Social Media, and I’m currently finalizing my Master’s in IT Management with a focus on AI and automation. I’m a big believer in innovation and growth, whether it's in my professional career, personal life, or teaching. I’m here to share my journey, my insights, and hopefully inspire others along the way. 🚀 Check out [Python-Tutor](https://byui-python-tutor.streamlit.app/), an AI application I developed my students in Intro to Programming course at BYU-Idaho. 
 
 I’m also a member of the [Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), and my faith in Jesus Christ is central to everything I do. If anyone would like to know more about my faith, the Book of Mormon, or simply wants to discuss beliefs, please reach out! Just as importantly, I’m a husband and father of five, navigating life with ADHD while striving to turn its challenges into strengths.
 
@@ -23,6 +23,7 @@ I’m also a member of the [Church of Jesus Christ of Latter-day Saints](https:/
 ### ADJUNCT PROFESSOR
 **BYU-Idaho College of Computer Science** *(current)*
 - Redesign the Introduction to Programming (CSE 110) course to incorporate a project-based learning approach, allowing students to build and develop a fully functional Python application over the semester.
+- Developed [Python-Tutor](https://byui-python-tutor.streamlit.app/), a free Python programming tutor powered by advanced generative AI technology.
 - Enhance course structure to cater to non-Computer Science majors by demonstrating the practical applications of programming in various fields, thus inspiring a broader appreciation and passion for technology.
 - Integrate generative AI tools to assist with problem-solving, equipping students with cutting-edge skills relevant to the rapidly evolving tech landscape.
 - Inspire students to find relevance and application of technology to bring more value to their personal and professional lives.
