@@ -18,7 +18,6 @@ I’m also a member of the [Church of Jesus Christ of Latter-day Saints](https:/
 - Develop the [IT Help Center](https://td.byui.edu/TDClient/79/ITHelpCenter/Home/), consolidating IT service management into one integrated web application and improving user access to support resources. *developed using [TeamDynamix](https://www.teamdynamix.com/)*
 - Integrate the Knowledge-Centered Service (KCS) methodology into incident and service management using TeamDynamix (ITSM), resulting in an average of 80% zero-day resolution.
 - Engineer automation solutions to augment departmental effectiveness, streamline IT change management, and reduce manual workload.
-- Appointed by the Church Educational System (CES) leadership to serve as the consultant and subject matter expert for strategy and deployment of TeamDynamix (ITSM) for all CES institutions.
 
 ### ADJUNCT PROFESSOR
 **BYU-Idaho College of Computer Science** *(current)*
