@@ -1,4 +1,4 @@
-[Experience](https://github.com/Atreyu4EVR/Atreyu4EVR/blob/main/README.md#experience) | [Education](https://github.com/Atreyu4EVR#education) | [AI Development](https://github.com/Atreyu4EVR#ai-development) | [Connect](https://github.com/Atreyu4EVR#connect-with-me) 
+[Experience](https://github.com/Atreyu4EVR/Atreyu4EVR/blob/main/README.md#experience) | [Education](https://github.com/Atreyu4EVR#education) | [AI Projects](https://github.com/Atreyu4EVR#ai-development) | [Connect With Me](https://github.com/Atreyu4EVR#connect-with-me) 
 
 # About Me
 
