@@ -39,15 +39,13 @@ Brigham Young University - Idaho
 College of Information Technology  
 Western Governors University
 
----
-
 ## AI Development
 
 🚀 Check out [Python-Tutor](https://byui-python-tutor.streamlit.app/), an AI application I developed for my students enrolled in my Intro to Programming course at BYU-Idaho.
 
-### Connect with me!
+## Connect with me!
 [Facebook](https://www.facebook.com/ronweasleyjr/) 
-[x.com](https://x.com/Atreyu4EVR) 
+[X](https://x.com/Atreyu4EVR) 
 [LinkedIn](https://www.linkedin.com/in/ronvallejo/) 
 [Hugging Face](https://huggingface.co/Atreyu4EVR) 
 
