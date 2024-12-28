@@ -44,9 +44,9 @@ Western Governors University
 🚀 Check out [Python-Tutor](https://byui-python-tutor.streamlit.app/), an AI application I developed for my students enrolled in my Intro to Programming course at BYU-Idaho.
 
 ## Connect with me!
-[Facebook](https://www.facebook.com/ronweasleyjr/) 
-[X](https://x.com/Atreyu4EVR) 
-[LinkedIn](https://www.linkedin.com/in/ronvallejo/) 
-[Hugging Face](https://huggingface.co/Atreyu4EVR) 
+- [Facebook](https://www.facebook.com/ronweasleyjr/) 
+- [X](https://x.com/Atreyu4EVR) 
+- [LinkedIn](https://www.linkedin.com/in/ronvallejo/) 
+- [Hugging Face](https://huggingface.co/Atreyu4EVR) 
 
 <!--- ronvallejo/ronvallejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
