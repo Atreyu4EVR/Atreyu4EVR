@@ -1,4 +1,6 @@
-[Experience](https://github.com/Atreyu4EVR/Atreyu4EVR/blob/main/README.md#experience) | [Education](https://github.com/Atreyu4EVR#education) | [AI Projects](https://github.com/Atreyu4EVR#ai-development) | [Connect With Me](https://github.com/Atreyu4EVR#connect-with-me) 
+[Experience](https://github.com/Atreyu4EVR/Atreyu4EVR/blob/main/README.md#experience) | [Education](https://github.com/Atreyu4EVR#education) | [AI Projects](https://github.com/Atreyu4EVR#ai-development) | [Follow Me](https://github.com/Atreyu4EVR#connect-with-me)  
+
+***Follow me on Medium.com ➜ [medium.com/@ronvallejo](https://medium.com/@ronvallejo)***
 
 # About Me
 
@@ -43,10 +45,7 @@ Western Governors University
 
 🚀 Check out [Python-Tutor](https://byui-python-tutor.streamlit.app/), an AI application I developed for my students enrolled in my Intro to Programming course at BYU-Idaho.
 
-## Connect with me!
-[Facebook](https://www.facebook.com/ronweasleyjr/)  
-[X](https://x.com/Atreyu4EVR)  
-[LinkedIn](https://www.linkedin.com/in/ronvallejo/)  
-[Hugging Face](https://huggingface.co/Atreyu4EVR)  
+## Follow Me
+[Facebook](https://www.facebook.com/ronweasleyjr/) | [X](https://x.com/Atreyu4EVR) | [LinkedIn](https://www.linkedin.com/in/ronvallejo/) | [Hugging Face](https://huggingface.co/Atreyu4EVR)  
 
 <!--- ronvallejo/ronvallejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
