@@ -15,7 +15,7 @@ Committed to helping others grow through challenges—including ADHD—while act
 ### AI ENGINEER
 **BYU-Idaho Department of Information Technology** *(Feb 2025 – Present)*
 - Develop, test, and deploy AI solutions aligned with institutional goals, including cost-effectiveness, scalability, and user experience.
-- Design and orchestrate AI agents to augment university operations, integrating with tools like TeamDynamix, Canvas, and Jenzabar.
+- Design and orchestrate AI agents to augment university operations and integrations.
 - Build with a range of LLM technologies including OpenAI, Anthropic, HuggingFace, and local open-source models.
 - Lead architectural strategy for AI integration and knowledge management using vector databases, semantic search, and prompt engineering.
 - Partner with departments to identify opportunities for automation and intelligent systems that support enrollment, retention, and innovation.
