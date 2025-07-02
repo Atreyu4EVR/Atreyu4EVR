@@ -4,13 +4,11 @@
 
 # About Me
 
-Hi, I’m Ron Vallejo, an AI Engineer, IT professional, and educator based in Rexburg, Idaho. I currently serve as the AI Engineer for Brigham Young University-Idaho, where I research and develop AI solutions to drive digital transformation across campus. My work involves designing intelligent automation systems, evaluating use cases for AI integration, and building support agents using platforms like OpenAI, Anthropic, HuggingFace, and others—leveraging both private and open-source models via API or local inference.
+AI Engineer, IT professional, and educator based in Rexburg, Idaho. Currently leading AI development at Brigham Young University–Idaho, building intelligent automation systems, evaluating campus-wide AI use cases, and deploying support agents using OpenAI, Anthropic, HuggingFace, and local inference tools. Passionate about leveraging AI to enhance cost, quality, experience, and reach—core principles guiding BYU-Idaho’s digital transformation strategy.
 
-I’m also an Adjunct Professor in the Department of Computer Science at BYU-Idaho, where I teach Introduction to Programming and help students discover the power and possibilities of technology through hands-on, project-based learning.
+Adjunct Professor in Computer Science, teaching Introduction to Programming with a focus on hands-on, project-based learning. Background in IT management blends architecture, development, and innovation.
 
-With a background in IT management and a deep passion for innovative tech, I combine my development skills with architectural strategy to assess and implement AI-driven solutions that improve cost, quality, experience, and reach—the guiding principles of our campus AI strategy. I’m also navigating life and leadership with ADHD, and I’m passionate about helping others grow, adapt, and lead through their own challenges.
-
-I’m also a member of the [Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), and my faith in Jesus Christ is central to everything I do. If anyone would like to know more about my faith, the Book of Mormon, or simply wants to discuss beliefs, please reach out! Just as importantly, I’m a husband and father of five, navigating life with ADHD while striving to turn its challenges into strengths.
+Committed to helping others grow through challenges—including ADHD—while actively mentoring and building systems that uplift. A husband, father of five, and disciple of Jesus Christ. Open to conversations about faith, technology, leadership, and how they intersect.
 
 ## Experience
 
